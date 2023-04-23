@@ -300,7 +300,7 @@ document.getElementById("portfolio-link-btn").onclick = function () {
   location.href = "https://sushaingupta.netlify.app";
 }
 document.getElementById("portfolio-code-btn").onclick = function () {
-  location.href = "https://github.com/SushainGupta/Portfolio";
+  location.href = "https://github.com/abhijeet-0108/Portfolio.git";
 };
 
 
