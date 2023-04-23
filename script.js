@@ -296,9 +296,9 @@ img.src = images[index];
 
 // Adding on click function to source code and view project button in project section. 
 
-// document.getElementById("portfolio-link-btn").onclick = function () {
-//   location.href = "https://sushaingupta.netlify.app";
-// }
+document.getElementById("portfolio-link-btn").onclick = function () {
+  location.href = "https://neon-griffin-f09afe.netlify.app/";
+}
 document.getElementById("portfolio-code-btn").onclick = function () {
   location.href = "https://github.com/abhijeet-0108/Portfolio.git";
 };
